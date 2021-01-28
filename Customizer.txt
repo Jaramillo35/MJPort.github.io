@@ -16,7 +16,7 @@ ikonik CUSTOMIZER OPTIONS
 		class		: add class to html tag: "sound-effects"
 		
 	- Background Music (file:upload : mp3)
-		remove markup on index.html when no mp3 is uploaded
+		remove markup on inicio.html when no mp3 is uploaded
 		
 	- Background Music Autoplay
 		default		: off
